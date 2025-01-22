@@ -33,7 +33,7 @@ Certifique-se de que você tenha as seguintes ferramentas instaladas:
 4. Certifique-se de que o script está apontando para o diretório correto contendo seus repositórios:
    Edite a linha no script Python:
    ```python
-   BASE_DIR = "/caminho/para/sua/pasta/com/repositorios"
+   PROJECTS_DIR = "/caminho/para/sua/pasta/com/repositorios"
    ```
 
 ---
